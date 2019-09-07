@@ -51,6 +51,47 @@ Se quiere llegar a abarcar los sistemas de seguridad y monitoreo de una forma in
 Se quiere abarcar un publico el cual tenga la necesidad de tener el control de su vehículo, ofreciendo un nuevo sistema de encendido del mismo, atrayendo clientes los cuales quieran una herramienta sofisticada en su vehículo.
 
 También se quiere atraer los clientes que necesitan realizar monitoreo de sus vehículo, ya que pueden ser vehículos familiares, y de esta forma poder estar al tanto de las acciones realizadas con el vehículo.
+ # TÉCNICAS DE RECOLECCIÓN DE DATOS -PROYECTO 
+los métodos de recolección de datos, se puede definir como: 
+ medio a través del cual el investigador se relaciona con los participantes para obtener información 
+
+
+
+# La  encuesta
+Se eligió  este método  el cual  consiste en obtener información  acerca de un  estudio, proporcionada por  personas, sobre opiniones,  actitudes  o sugerencias. Hay dos maneras de obtener información con este método: 
+Hay dos maneras de obtener información con este método: la entrevista cuestionario
+
+# formato encuesta 
+
+
+![enter image description here](https://lh3.googleusercontent.com/8lmrNR6eVUxpgQELn27itkY8lfjRqzu1JXRAPncUP088MndOWCMgqZxSKpFvR_8jYqTLiXA-jJtO "1")
+![enter image description here](https://lh3.googleusercontent.com/Jd2nzOERnGASzlM-2AUXQ8CwdGkM27gl2K97LPQFBb_8l80dmqhuscuwTFddvxhKbGh90F4HFqoT "2")
+![enter image description here](https://lh3.googleusercontent.com/8LnFdRGdv1Uu-CoJ8VO2z-ukMMKUHj3NyA4p9OyNAmssw6M5670NKlOufFgosBvBwxkCtCuNQxx7 "3")
+![enter image description here](https://lh3.googleusercontent.com/V5uNbyQ5p4BGycTA5G8ls4uBFwuSqzhHTDpdCH84AorWJsBD8N_kWHa7r2xmKK0rDMkPBA1xhCn4 "5")
+**link  de encuesta realizada**
+[enter link description here](https://docs.google.com/forms/d/1cHlB12D7Z6tbnRUCYwa0zXlTNpR1yPbXOcyFpdHPM7M/edit)
+![enter image description here](https://lh3.googleusercontent.com/INVDn2hB_WjcUNN4qRCBF9AXo6NGAgMsJmGXwn69MzmfGFJWQzpBa5b0EUlOof464MALPRp2ov61 "1")
+![enter image description here](https://lh3.googleusercontent.com/iDSukuRyFQId4tetA5m4azLhvq99DWgjatQamuN7lqbzPm2MlDpn_6ledoKnOpqscMZ6fQ1rYkad "2")
+![
+](https://lh3.googleusercontent.com/i-9r0deDFzD0re7mySSctvohCkRM83SJKlt0a2y0wc_QG-TxrvXDr66bCO-pESECI4yA4agvT7s5 "3")
+![
+](https://lh3.googleusercontent.com/j3pk_0ljxzs5tIGEyQMOuGXNRZqdkRkeVk80w24FLxK4-Z55ZNtfdnDNGEPShDdLgfUTkY-ZeTXa "6")
+enter image description here
+![
+](https://lh3.googleusercontent.com/RywgH7s5RGAiwSq7xERxbRZA5ljZpG-utfUmoFlXMXs-YKAxdBHrTvTDVnlNPXoVzvXP9Y4PTLVp "7")
+
+![
+](https://lh3.googleusercontent.com/HQkGAPy0YiSSGDUxifLEFXL09k8pxNHI8Ki3jxaRcgin1Fg6iX2yaPZ-TVeTjfjBUVabq3JpT671 "9")
+![
+](https://lh3.googleusercontent.com/9O6tLHDLGbBV6gcNRxrU0qLvVMrr8ONb_-osH9WdDrQVr_yNcqT78pcPiilhBURaw58cgXuPgW_- "9")
+# La entrevista
+
+Es  un método  el cual permite investigar  respuestas verbales a las interrogantes planteadas sobre el estudio, para adquirir información mas completa sobre el tema .
+
+# FORMATO DE PREGUNTAS
+![
+](https://lh3.googleusercontent.com/GNwzXvEmMYphQJ3fBgt_X4oeB9nO-NvFM00pCOFdN7rc-wCsgBXYOuXeqhsONjogi-72dWDMOOFs "preguntas")
+
 
 
 ## *BIBLIOGRAFÍA*
