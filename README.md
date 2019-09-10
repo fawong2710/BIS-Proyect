@@ -1,3 +1,4 @@
+
 # 5BSS
 # *5BSS -  5 BIOMETRIC SECURITY SYSTEM*
   
@@ -88,11 +89,15 @@ enter image description here
 
 Es  un método  el cual permite investigar  respuestas verbales a las interrogantes planteadas sobre el estudio, para adquirir información mas completa sobre el tema .
 
-# FORMATO DE PREGUNTAS
+## FORMATO DE PREGUNTAS
+
 ![
 ](https://lh3.googleusercontent.com/GNwzXvEmMYphQJ3fBgt_X4oeB9nO-NvFM00pCOFdN7rc-wCsgBXYOuXeqhsONjogi-72dWDMOOFs "preguntas")
 
+## EVIDENCIA DE LA ENCUESTA 
+![enter image description here](https://lh3.googleusercontent.com/2wgTCFZXdw2ZpGSLEveBcnokO6YHRdm3MlVauFl_cv8d96BAIZqARql1SGDRE9f2iYs99mxLlJ0)
 
+![enter image description here](https://lh3.googleusercontent.com/5z1rLMfSqdPno3J6KPddwYCx3_sDXJRBKeGDjbj8uiVtCfeoimh0FoUYvf5NzY1_ULSnQy57IFg)
 
 ## *BIBLIOGRAFÍA*
 LOGO :[enter link description here](https://www.google.com.co/imghp?hl=es&tab=wi&ogbl)
