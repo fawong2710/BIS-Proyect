@@ -1,4 +1,6 @@
 # *BIS PROJECT*
+![image](https://user-images.githubusercontent.com/54606142/110408053-f883e880-8052-11eb-90d6-262846fdc6b0.png)
+
 
 ## *ÍNDICE*
 
