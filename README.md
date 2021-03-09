@@ -50,6 +50,3 @@ Identificar la necesidad del usuario teniendo en cuenta la seguridad que brinda 
 ## *ALCANCE*
 Propietarios y usuarios que necesitan tener un mejor sistema de seguridad en sus vehículos. Ofreciendo un sistema de encendido biométrico con un portal web de administración.
 
-.
-
-![image](https://user-images.githubusercontent.com/54606142/110407912-be1a4b80-8052-11eb-9d6a-44c73bc60d83.png)
