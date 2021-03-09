@@ -25,6 +25,7 @@ Desarrollar un software de encendido biométrico para vehículos por medio de un
 **2**.  Facilitar al usuario la consulta de su documentación vehicular.
 **3**.  Garantizar seguridad en la información personal del cliente.
 **4**. Ofrecer a nuestros clientes un sistema intuitivo de fácil manejo.
+
 **5**. Ofrecer al cliente un historial de recorridos de su vehículo (distancia y kilometraje).
 
 ## *PLANTEAMIENTO DEL PROBLEMA*
